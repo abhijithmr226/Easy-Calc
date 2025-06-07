@@ -1,17 +1,40 @@
 Advanced Easy Calculator
 ![pic2](https://github.com/user-attachments/assets/ebb41da5-8eaa-4bd1-a686-33c5bb053e8a)
 
-Welcome to the Advanced Easy Calculator project! This is a user-friendly, advanced web calculator designed with ease of use and a modern interface in mind. It includes a variety of useful functions, such as basic arithmetic operations, scientific functions, and a clean user experience.
-Site Preview
+[![Made with HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Made with CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Made with JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://easy-calc-six.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-https://easy-calc-six.vercel.app/
+> 🔢 A sleek and responsive calculator built with HTML, CSS, and JavaScript. Perform basic arithmetic operations in a clean and interactive UI.
 
-You can view the live version of the calculator at Easy Calculator Preview.
-Features
+---
 
-    Basic Functions: Add, subtract, multiply, and divide.
-    Scientific Functions: Square root, powers, trigonometric functions (sin, cos, tan), logarithms, etc.
-    Clear & Backspace: Easily clear your input or delete one character at a time.
-    Responsive Design: Fully responsive layout for smooth usage across devices like mobile, tablet, and desktop.
-    User-Friendly Interface: Intuitive and clean design for quick access to functions.
-    History & Memory: Track calculations and store results for quick reuse.
+## 🚀 Features
+
+- ✅ Clean and intuitive interface
+- ➕ Supports basic math: addition, subtraction, multiplication, division
+- 📱 Fully responsive on all devices
+- ⌨️ Keyboard input support
+- ✨ Smooth hover and click button effects
+- 🖤 Dark theme styling (minimalist)
+
+---
+
+## 🌐 Live Demo
+
+🎯 Check it out here:  
+👉 [https://easy-calc-six.vercel.app/](https://easy-calc-six.vercel.app/)
+
+---
+
+## 📁 Getting Started
+
+To use locally:
+
+```bash
+git clone https://github.com/abhijithmr226/Easy-Calc.git
+cd Easy-Calc
+open index.html
+
